@@ -4,4 +4,8 @@ gopdlv - debugger for Go/Go+
 [![GitHub release](https://img.shields.io/github/v/tag/goplus/gopdlv.svg?label=release)](https://github.com/goplus/gopdlv/releases)
 [![Language](https://img.shields.io/badge/language-Go+-blue.svg)](https://github.com/goplus/gop)
 
-gopdlv is a debugger for the Go/Go+ programming language.
+`gopdlv` is a debugger for the Go/Go+ programming language.
+
+## How to install
+
+gop install github.com/goplus/gopdlv@[![latest](https://img.shields.io/github/v/tag/goplus/gopdlv.svg?label=)](https://github.com/goplus/gopdlv/releases)
